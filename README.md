@@ -14,5 +14,4 @@ Estudiante de 1º Grado Medio de **Sistemas Microinformáticos y Redes** en **La
 * **Redes y sistemas:** Linux y Windows.
 
 ## 🦈 Proyectos y ejercicios interestanes realizados en GM:
-* Portafolio personal enfocado al aprendizaje de Itinerario Profesional:
-* **https://sites.google.com/view/ip1-robertocarrascoso/inicio**
+* Portafolio personal enfocado al aprendizaje de Itinerario Profesional: **https://sites.google.com/view/ip1-robertocarrascoso/inicio**
