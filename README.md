@@ -6,8 +6,8 @@ Estudiante de 1º Grado Medio de **Sistemas Microinformáticos y Redes** en **La
 * Estudio autodidacta de desarrollo web y las aplicaciones móviles.  
 
 ## ♠︎ Proyectos personales: 
-* Mi portafolio web, donde recopilo mis proyectos e ideas.  
-* Una aplicación móvil, desarrollada con **Flutter/Dart**, sobre trackeo de entrenamientos y demás opciones.
+* Mi portafolio web, donde recopilo mis proyectos e ideas. - En preceso...
+* Una aplicación móvil, desarrollada con **Flutter/Dart**, sobre trackeo de entrenamientos y demás opciones. - En preceso...
 
 ## 🌟 Tecnologías y habilidades que estoy aprendiendo:  
 * Desarrollo Web: HTML, CSS, JavaScript.
