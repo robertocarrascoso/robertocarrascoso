@@ -1,17 +1,16 @@
-# 👋 ¡Hola, soy Roberto!  
-Estudiante de 1º Grado Medio de **Sistemas Microinformáticos y Redes** en **Las Naves Salesianos**.  
+# Hi, I'm Roberto!  
 
-## ✨ Sobre mí:  
-* Apasionado por el desarrollo y la innvoación.
-* Estudio autodidacta de desarrollo web y las aplicaciones móviles.  
+## ✨ About Me:  
+* Passionate about development and innovation.  
+* Self-taught learner in web and mobile application development.  
 
-## ♠︎ Proyectos personales: 
-* Mi portafolio web, donde recopilo mis proyectos e ideas. **(En preceso...)**
-* Una aplicación móvil, desarrollada con **Flutter/Dart**, sobre trackeo de entrenamientos y multiples opciones. **(En preceso...)**
+## ♠︎ Personal Projects:  
+* My web portfolio, where I showcase my projects and ideas. **(In progress...)**  
+* A mobile application developed with **Flutter/Dart**, focused on workout tracking and multiple features. **(In progress...)**  
 
-## 🌟 Tecnologías y habilidades que estoy aprendiendo:  
-* **Lenguajes de programación y desarrollo Web:** Dart, Python, JavaScript, HTML y CSS.
-* **Redes y sistemas:** Linux y Windows.
+## 🌟 Technologies and Skills I'm Learning:  
+* **Programming Languages and Web Development:** Dart, Python, HTML, and CSS.  
+* **Networks and Systems:** Linux & Windows.  
 
-## 🦈 Proyectos y ejercicios interestanes realizados en GM:
-* Portafolio personal enfocado al aprendizaje de Itinerario Profesional: **https://sites.google.com/view/ip1-robertocarrascoso/inicio**
+## 🦈 Interesting Projects and Exercises Completed in VT:  
+* Personal portfolio focused on Professional Pathway learning: **https://sites.google.com/view/ip1-robertocarrascoso/inicio**  
