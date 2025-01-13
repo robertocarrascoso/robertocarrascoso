@@ -13,4 +13,4 @@
 * **Networks and Systems:** Linux & Windows.  
 
 ## 🦈 Interesting Projects and Exercises Completed studying:  
-* Personal portfolio focused on Professional Pathway learning: **https://sites.google.com/view/ip1-robertocarrascoso/inicio**  
+* Personal portfolio focused on Professional Pathway. With HTML, CSS & Java Script: **https://sites.google.com/view/ip1-robertocarrascoso/inicio**  
