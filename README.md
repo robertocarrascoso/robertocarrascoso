@@ -9,7 +9,8 @@
 * A mobile application developed with **React Native**, focused on workout tracking and multiple features. **(In progress...)**  
 
 ## 🌟 Technologies and Skills I'm Learning:  
-* **Programming Languages and Web Development:** HTML, CSS, Python and TypeScript.* **Networks and Systems:** Linux & Windows.  
+* **Programming Languages and Web Development:** HTML, CSS, Python and TypeScript.
+* **Networks and Systems:** Linux & Windows.  
 
 ## 🦈 Interesting Projects and Exercises Completed studying:  
 * Personal portfolio focused on Professional Pathway and activities carried out in class.
