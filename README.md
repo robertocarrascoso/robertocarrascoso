@@ -1,17 +1,22 @@
-# Hi, I'm Roberto!  
+# 👋 ¡Hola, soy Roberto!  
+Estudiante de 1º Grado Medio de **Sistemas Microinformáticos y Redes** en **Las Naves Salesianos**.  
 
-## ✨ About Me:  
-* Passionate about development and innovation.  
-* Self-taught learner in web and mobile application development.  
+## ✨ Sobre mí:  
+* Apasionado por el desarrollo e innovación.  
+* Estudio autodidacta de desarrollo web y las aplicaciones móviles.  
 
-## ♠︎ Personal Projects:  
-* My web portfolio, where I showcase my projects and ideas. **(In progress...)**  
-* A mobile application developed with **React Native**, focused on workout tracking and multiple features. **(In progress...)**  
+## ♠︎ Proyectos personales:  
+* Mi portafolio web, donde recopilo mis proyectos e ideas. **(En progreso...)**  
+* Una aplicación móvil desarrollada con **React Native**, enfocada en el seguimiento de entrenamientos y múltiples funciones. **(En progreso...)**  
 
-## 🌟 Technologies and Skills I'm Learning:  
-* **Programming Languages:** HTML, CSS, Python and TypeScript.
-* **Networks and Systems:** Linux & Windows.  
+## 🌟 Tecnologías y habilidades que estoy aprendiendo:  
+[![My Skills](https://skillicons.dev/icons?i=react,typescrip,nodejs,figma,python,swift,nextjs,docker,gcp&theme=light)]
 
-## 🦈 Interesting Projects and Exercises Completed studying:  
-* Personal portfolio focused on Professional Pathway and activities carried out in class.
-* Developed with HTML, CSS & JavaScript: **https://sites.google.com/view/ip1-robertocarrascoso/inicio**  
+### Herramientas y plataformas:  
+![Git](https://skillicons.dev/icons?i=git,react,figma&theme=light)  
+
+
+## 🦈 Proyectos y ejercicios interesantes realizados en GM:  
+* Portafolio personal enfocado en el camino profesional y actividades realizadas en clase.  
+* Desarrollado con HTML, CSS y JavaScript: [Ver aquí](https://sites.google.com/view/ip1-robertocarrascoso/inicio)  
+[![Bitacora](https://skillicons.dev/icons?i=html,css,js&theme=light)]
