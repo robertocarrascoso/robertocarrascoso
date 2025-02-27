@@ -11,7 +11,7 @@ Estudiante de 1º Grado Medio de **Sistemas Microinformáticos y Redes** en **La
 
 ## 🌟 Tecnologías y habilidades que estoy aprendiendo:  
 ### Herramientas y plataformas:
-![My Skills](https://skillicons.dev/icons?i=react,typescrip,nodejs,figma,python,swift,nextjs,docker,gcp,git&theme=light)
+![My Skills](https://skillicons.dev/icons?i=python,figma,swift,typescript,react,nextjs,docker,gcp,git&theme=light)
 
 ## 🦈 Proyectos y ejercicios interesantes realizados en GM:  
 * Portafolio personal enfocado en el camino profesional y actividades realizadas en clase.  
