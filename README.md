@@ -7,10 +7,9 @@ Estudiante de 1º Grado Medio de **Sistemas Microinformáticos y Redes** en **La
 
 ## ♠︎ Proyectos personales:  
 * Mi portafolio web, donde recopilo mis proyectos e ideas. **(En progreso...)**  
-* Una aplicación móvil desarrollada con **React Native**, enfocada en el seguimiento de entrenamientos y múltiples funciones. **(En progreso...)**  
+* Aplicación móvil desarrollada con **React Native**, enfocada en el seguimiento de entrenamientos y múltiples funciones. **(En progreso...)**  
 
 ## 🌟 Tecnologías y habilidades que estoy aprendiendo:  
-### Herramientas y plataformas:
 ![My Skills](https://skillicons.dev/icons?i=python,figma,swift,typescript,react,nextjs,docker,gcp,git&theme=light)
 
 ## 🦈 Proyectos y ejercicios interesantes realizados en GM:  
