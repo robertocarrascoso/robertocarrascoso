@@ -48,5 +48,5 @@ Portafolio personal enfocado en el camino profesional y actividades realizadas e
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertocarrascoso&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertocarrascoso&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="190" alt="languages graph"  />
 </div>
