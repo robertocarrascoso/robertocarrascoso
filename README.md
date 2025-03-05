@@ -14,6 +14,8 @@ Estudiante de 1º Grado Medio de **Sistemas Microinformáticos y Redes** en **La
 Portafolio personal enfocado en el camino profesional y actividades realizadas en clase.  
 * Desarrollado con HTML, CSS y JavaScript: [Ver aquí](https://sites.google.com/view/ip1-robertocarrascoso/inicio)  
 
+---
+
 ###
 <br clear="both">
 
@@ -40,10 +42,6 @@ Portafolio personal enfocado en el camino profesional y actividades realizadas e
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" alt="googlecloud logo"  />
 </div>
-
-###
-
-<img align="right" height="200" src="https://media.discordapp.net/attachments/1340625560958668810/1344726518538178570/Skunk_works_Logo.svg.png?ex=67c1f5a9&is=67c0a429&hm=ac3a965163e40601f26fc91a59562316a13916b0d4ce4f780d618a9a5854b946&=&format=webp&quality=lossless&width=575&height=575"  />
 
 ###
 
