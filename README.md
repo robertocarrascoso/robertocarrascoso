@@ -12,7 +12,7 @@ Estudiante de 1º Grado Medio de **Sistemas Microinformáticos y Redes** en **La
 
 ## 🦈 Proyectos y ejercicios interesantes realizados en GM:  
 Portafolio personal enfocado en el camino profesional y actividades realizadas en clase.  
-* Desarrollado con HTML, CSS y JavaScript: [Ver aquí](https://sites.google.com/view/ip1-robertocarrascoso/inicio)  
+* Desarrollado con Nextjs: [Ver aquí](https://bitacora-laboral-roberto-carrascoso.vercel.app/)  
 
 ---
 
