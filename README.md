@@ -6,7 +6,7 @@ Estudiante de 1º Grado Medio de **Sistemas Microinformáticos y Redes** en **La
 * Estudio autodidacta de desarrollo web y aplicaciones móviles.  
 
 ## ♠︎ Proyectos personales:  
-* Mi portafolio web, donde recopilo mis proyectos e ideas. **(En progreso...)**  
+* Mi portafolio web, donde recopilo mis proyectos e ideas. **https://robertocarrascoso.com (En progreso...)**  
 * Aplicación móvil desarrollada con **React Native**, enfocada en el seguimiento de entrenamientos y más. **(En progreso...)**  
 
 
@@ -41,10 +41,4 @@ Portafolio personal enfocado en el camino profesional y actividades realizadas e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" alt="googlecloud logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertocarrascoso&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="190" alt="languages graph"  />
 </div>
