@@ -11,11 +11,8 @@ Estudiante de 1º Grado Medio de **Sistemas Microinformáticos y Redes** en **La
 
 
 ## 🦈 Proyectos y ejercicios interesantes realizados en GM: 
-Juego Ping Pong desarrollado con Python.  
-* Desarrollado con Python + Pygame: [Ver aquí](https://github.com/robertocarrascoso/PingPong_RDI)  
-
-Portafolio personal enfocado en el camino profesional y actividades realizadas en clase.  
-* Desarrollado con Nextjs: [Ver aquí](https://bitacora-laboral-roberto-carrascoso.vercel.app/)  
+* Juego Ping Pong desarrollado con Python & PyGame [Ver aquí](https://github.com/robertocarrascoso/PingPong_RDI)  
+* Portafolio personal enfocado en el camino profesional y actividades realizadas en clase. [Ver aquí](https://bitacora-laboral-roberto-carrascoso.vercel.app/)  
 
 ---
 
