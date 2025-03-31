@@ -2,15 +2,20 @@
 Estudiante de 1º Grado Medio de **Sistemas Microinformáticos y Redes** en **Las Naves Salesianos**.
 
 ## ✨ Sobre mí:
-Apasionado por el **desarrollo** e **innovación**.
-**Estudio autodidacta** de Desarrollo Web y Aplicaciones Móviles.
+* Apasionado por el **desarrollo** e **innovación**.
+* **Estudio autodidacta** de Desarrollo Web y Aplicaciones Móviles.
 
 ## ♠︎ Proyectos personales:  
-Mi portafolio web, donde recopilo mis proyectos e ideas. **https://robertocarrascoso.com (En progreso...)**
-Aplicación móvil desarrollada con **React Native**, enfocada en el seguimiento de entrenamientos y más. **(En progreso...)**
+* Mi portafolio web, donde recopilo mis proyectos e ideas. **https://robertocarrascoso.com (En progreso...)**
+* Aplicación móvil desarrollada con **React Native**, enfocada en el seguimiento de entrenamientos y más. **(En progreso...)**
 
 ## ♠︎ Aprendizaje autodidacta:  
-Realizando cursos las siguientes plataformas online:  **Platzi**, **midu.dev**, **Scrimba** y **YouTube**: HTML & CSS, JavaScript, Python, React y Bases de datos
+Realizando cursos las siguientes plataformas online:  **Platzi**, **midu.dev**, **Scrimba** y **YouTube**:
+* HTML & CSS
+* JavaScript
+* Python
+* React
+* Bases de datos
 
 
 ## 🦈 Proyectos y ejercicios realizados en GM: 
