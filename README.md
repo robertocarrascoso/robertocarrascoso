@@ -10,12 +10,7 @@ Estudiante de 1º Grado Medio de **Sistemas Microinformáticos y Redes** en **La
 * Aplicación móvil desarrollada con **React Native**, enfocada en el seguimiento de entrenamientos y más. **(En progreso...)**
 
 ## ♠︎ Aprendizaje autodidacta:  
-Realizando cursos las siguientes plataformas online:  **Platzi**, **midu.dev**, **Scrimba** y **YouTube**:
-* HTML & CSS
-* JavaScript
-* Python
-* React
-* Bases de datos
+Realizando cursos las siguientes plataformas online:  **Platzi**, **midu.dev**, **Scrimba** y **YouTube**.
 
 
 ## 🦈 Proyectos y ejercicios realizados en GM: 
