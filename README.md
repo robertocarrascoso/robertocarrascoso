@@ -1,18 +1,22 @@
 # 👋 ¡Hola, soy Roberto!  
-Estudiante de 1º Grado Medio de **Sistemas Microinformáticos y Redes** en **Las Naves Salesianos**.  
+Estudiante de 1º Grado Medio de **Sistemas Microinformáticos y Redes** en **Las Naves Salesianos**.
 
-## ✨ Sobre mí:  
-* Apasionado por el **desarrollo** e **innovación**.  
-* **Estudio autodidacta** de Desarrollo Web y Aplicaciones Móviles.  
+## ✨ Sobre mí:
+Apasionado por el **desarrollo** e **innovación**.
+**Estudio autodidacta** de Desarrollo Web y Aplicaciones Móviles.
 
 ## ♠︎ Proyectos personales:  
-* Mi portafolio web, donde recopilo mis proyectos e ideas. **https://robertocarrascoso.com (En progreso...)**  
-* Aplicación móvil desarrollada con **React Native**, enfocada en el seguimiento de entrenamientos y más. **(En progreso...)**  
+Mi portafolio web, donde recopilo mis proyectos e ideas. **https://robertocarrascoso.com (En progreso...)**
+Aplicación móvil desarrollada con **React Native**, enfocada en el seguimiento de entrenamientos y más. **(En progreso...)**
+
+## ♠︎ Aprendizaje autodidacta:  
+Realizando cursos las siguientes plataformas online:  **Platzi**, **midu.dev**, **Scrimba** y **YouTube**: HTML & CSS, JavaScript, Python, React y Bases de datos
 
 
-## 🦈 Proyectos y ejercicios interesantes realizados en GM: 
-* Juego Ping Pong desarrollado con Python & PyGame [Ver aquí](https://github.com/robertocarrascoso/PingPong_RDI)  
-* Portafolio personal enfocado en el camino profesional y actividades realizadas en clase. [Ver aquí](https://bitacora-laboral-roberto-carrascoso.vercel.app/)  
+## 🦈 Proyectos y ejercicios realizados en GM: 
+* Juego Ping Pong desarrollado con Python & PyGame. [Ver aquí](https://github.com/robertocarrascoso/PingPong_RDI)
+* Portafolio personal enfocado en el camino profesional y actividades realizadas en clase. [Ver aquí](https://bitacora-laboral-roberto-carrascoso.vercel.app/)
+* Página web del proyecto final 1º GM - Empresa ficticia. [Ver aquí](https://orion-works.vercel.app/)
 
 ---
 
