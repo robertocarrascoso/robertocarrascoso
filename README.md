@@ -11,7 +11,7 @@ Estudiante de 1º Grado Medio de **Sistemas Microinformáticos y Redes** en **La
 
 ## 📚 Aprendizaje autodidacta:  
 Aprendiendo las tecnologias mencionadas en la barra inferior en las siguientes plataformas online:  
-* **Platzi**, **midu.dev**, **Scrimba** y **YouTube**.
+* **Platzi** I **midu.dev** I **Scrimba** I **YouTube**.
 
 
 ## 🦈 Proyectos y ejercicios realizados en GM: 
