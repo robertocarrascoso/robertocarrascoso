@@ -15,8 +15,8 @@ Aprendiendo las tecnologias mencionadas en la barra inferior en las siguientes p
 
 
 ## 🦈 Proyectos y ejercicios realizados en GM: 
-* Juego Ping Pong desarrollado con Python & PyGame. [Ver aquí](https://github.com/robertocarrascoso/PingPong_RDI)
 * Portafolio personal enfocado en el camino profesional y actividades realizadas en clase. [Ver aquí](https://bitacora-laboral-roberto-carrascoso.vercel.app/)
+* Juego Ping Pong desarrollado con Python & PyGame. [Ver aquí](https://github.com/robertocarrascoso/PingPong_RDI)
 * Página web del proyecto final 1º GM - Empresa ficticia. [Ver aquí](https://orion-works.vercel.app/)
 
 ---
