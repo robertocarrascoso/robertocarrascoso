@@ -1,12 +1,12 @@
-# 👋 ¡Hola, soy Roberto!  
-* Apasionado por el **desarrollo** e **innovación**.
-* **Estudio autodidacta** de Desarrollo Web y Aplicaciones Móviles.
+# 👋 Hi, I'm Roberto!  
+* Passionate about **development** and **innovation**.
+* Focused on building intuitive and useful digital experiences.  
 
-## ♠︎ Proyectos personales:  
-* Mi portafolio web, donde recopilo mis proyectos e ideas. **https://robertocarrascoso.com (En progreso...)**
-* Aplicación móvil desarrollada con **React Native**, enfocada en el seguimiento de entrenamientos y más. **(En progreso...)**
-* Juego Ping Pong desarrollado con Python & PyGame. [Ver aquí](https://github.com/robertocarrascoso/PingPong_RDI)
+## 📚 Self-taught learning  
+Currently learning the technologies listed in the footer through these online platforms:  
+* **Platzi** | **midu.dev** | **Scrimba** | **YouTube**
 
-## 📚 Aprendizaje autodidacta:  
-Aprendiendo las tecnologias mencionadas en la barra inferior en las siguientes plataformas online:  
-* **Platzi** I **midu.dev** I **Scrimba** I **YouTube**.
+## ♠︎ Personal Projects  
+* My personal portfolio where I showcase my projects and ideas — **[robertocarrascoso.com](https://robertocarrascoso.com)** (Work in progress)  
+* A mobile app built with **React Native**, focused on workout tracking and more. *(Work in progress)*  
+* Ping Pong game developed with Python & PyGame — [Check it out](https://github.com/robertocarrascoso/PingPong_RDI)
