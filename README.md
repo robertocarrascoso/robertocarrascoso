@@ -7,6 +7,6 @@ Currently learning the technologies listed in the footer through these online pl
 * **Platzi** | **midu.dev** | **Scrimba** | **YouTube**
 
 ## ♠︎ Personal Projects  
-* My personal portfolio where I showcase my projects and ideas — **[robertocarrascoso.com](https://robertocarrascoso.com)** *(Work in progress)*  
+* My personal portfolio where I showcase my projects and ideas — **[robertocarrascoso.com](https://robertocarrascoso.com)**
 * A mobile app built with **React Native**, focused on workout tracking and more. *(Work in progress)*  
 * Ping Pong game developed with Python & PyGame — [Check it out](https://github.com/robertocarrascoso/PingPong_RDI)
