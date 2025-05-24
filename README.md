@@ -4,7 +4,7 @@
 
 ## 📚 Self-taught learning  
 Currently learning the technologies listed in the footer through these online platforms:  
-* **Platzi** | **midu.dev** | **Scrimba** | **YouTube**
+* **Platzi**, **Scrimba** & **YouTube**.
 
 ## ♠︎ Personal Projects  
 * My personal portfolio where I showcase my projects and ideas — **[robertocarrascoso.com](https://robertocarrascoso.com)**
