@@ -8,5 +8,5 @@ Currently learning the technologies listed in the footer through these online pl
 
 ## ♠︎ Personal Projects  
 * My personal portfolio where I showcase my projects and ideas — **[robertocarrascoso.com](https://robertocarrascoso.com)**
-* A mobile app built with **React Native**, focused on workout tracking and more. *(Work in progress)*  
+* A mobile app built with **React Native**, focused on workout tracking and more. **[muscleapp.fit](https://www.muscleapp.fit)** *(Work in progress)*  
 * Ping Pong game developed with Python & PyGame — [Check it out](https://github.com/robertocarrascoso/PingPong_RDI)
