@@ -1,12 +1,15 @@
 # 👋 Hi, I'm Roberto!  
-* Passionate about **development** and **innovation**.
-* Focused on building intuitive and useful digital experiences.  
+**Passionate developer driven by innovation and crafting intuitive digital experiences.**
 
-## 📚 Self-taught learning  
-Currently learning the technologies listed in the footer through these online platforms:  
-* **Platzi**, **Scrimba** **&** **YouTube**.
+## 📚 Currently learning  
+- **Full Stack Development course** at [Scrimba](https://scrimba.com/fullstack-path-c0fullstack)  
+- **AI Automation & Integration**
 
-## ♠︎ Personal Projects  
-* My personal portfolio where I showcase my projects and ideas — **[robertocarrascoso.com](https://robertocarrascoso.com)**
-* A mobile app built with **React Native**, focused on workout tracking and more. **[muscleapp.fit](https://www.muscleapp.fit)** *(Work in progress)*  
-* Ping Pong game developed with Python & PyGame — [Check it out](https://github.com/robertocarrascoso/PingPong_RDI)
+## ♠︎ Featured Projects  
+- 🌐 **[Personal Portfolio](https://robertocarrascoso.com)**: A showcase of my projects, ideas, and journey.  
+- 📱 **Workout Tracking App & Web**: In progress built with **React Native** & **Next.js** to enhance the fitness experience. *(Work in progress)*  
+- 🎮 **Ping Pong Game**: A fun game developed with **Python** and **PyGame**. Check it out! → [GitHub](https://github.com/robertocarrascoso/PingPong_RDI)  
+
+
+📬 **Connect with Me**: [LinkedIn](https://www.linkedin.com/in/roberto-carrascoso-jord%C3%A1n-4a1a49354/)
+Always open to collaborating on exciting projects.
