@@ -7,7 +7,7 @@
 
 ## ♠︎ Featured Projects  
 - 🌐 **Personal Portfolio**: A showcase of my projects, ideas, and journey → [Check it out](https://robertocarrascoso.com)
-- 📱 **Workout Tracking App & Web**: To enhance the fitness experience *(Work in progress)*
+- 📱 **Workout Tracking App & Web**: To enhance the fitness experience. *(Work in progress)*
 - 🎮 **Ping Pong Game**: A fun game developed with **Python** and **PyGame**. Check it out → [GitHub](https://github.com/robertocarrascoso/PingPong_RDI)
 
 
