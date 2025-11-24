@@ -10,5 +10,4 @@
 - **Workout Tracking App & Web**: To enhance the fitness experience. *(Work in progress)*
 - **Ping Pong Game**: A fun game developed with **Python** and **PyGame**. Check it out → [GitHub](https://github.com/robertocarrascoso/PingPong_RDI)
 
-
-📬 **Connect**: [LinkedIn](https://www.linkedin.com/in/roberto-carrascoso-jord%C3%A1n-4a1a49354/)
+**Connect**: [LinkedIn](https://www.linkedin.com/in/roberto-carrascoso-jord%C3%A1n-4a1a49354/)
