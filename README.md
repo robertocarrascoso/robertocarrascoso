@@ -1,14 +1,18 @@
-# 👋 Hi, I'm Roberto!  
+# 👋 ¡Hola, soy Roberto!  
 
-## Working on
-- **Personal Portfolio**: A showcase of my projects, ideas, and journey → [Check it out](https://robertocarrascoso.com)
-- **Workout Tracking App & Web**: To enhance the fitness experience. *(Work in progress)*
+**Portfolio personal**: Una muestra de mis proyectos, ideas y trayectoria → [Échale un vistazo](https://robertocarrascoso.com)
 
-## Projects
-- [**OpenRepair**](https://github.com/robertocarrascoso/OpenRepair) — Repair shop management: clients, repairs, quotes & PDF. Runs with a single command.
-- [**TFGM_RepairHub**](https://github.com/robertocarrascoso/TFGM_RepairHub) — Repair hub platform.
-- [**Web-Proyecto_Sostenibilidad**](https://github.com/robertocarrascoso/Web-Proyecto_Sostenibilidad) — Sustainability project website → [Live](https://web-proyecto-sostenibilidad.vercel.app)
-- [**PingPong_py**](https://github.com/robertocarrascoso/PingPong_py) — Ping Pong game built with Python & PyGame.
-- [**Tea-Touch**](https://github.com/robertocarrascoso/Tea-Touch) — Vocational training project, Computing.
+## Proyectos personales
+- [**MuscleApp**](https://muscleapp.fit): Web y App para seguimiento de entrenamientos — registra ejercicios, series y progreso para mejorar tu experiencia fitness. *(En desarrollo)*
+- [**OpenRepair**](https://github.com/robertocarrascoso/OpenRepair) — Sistema de gestión de taller de reparaciones: clientes, reparaciones, presupuestos y generación de PDF. Se levanta con un solo comando.
 
-**Connect**: [LinkedIn](https://www.linkedin.com/in/roberto-carrascoso-jord%C3%A1n-4a1a49354/)
+
+## Proyectos en Grado Básico & Medio
+- [**Tea-Touch**](https://github.com/robertocarrascoso/Tea-Touch) — Proyecto final de Grado Básico de Informática.
+- [**PingPong_py**](https://github.com/robertocarrascoso/PingPong_py) — Juego clásico de Ping Pong hecho con Python y PyGame.
+- [**Web-Proyecto_Sostenibilidad**](https://web-proyecto-sostenibilidad.vercel.app) — Web para la asignatura de Sostenibilidad, programada con TypeScript y desplegada en Vercel.
+- [**TFGM_RepairHub**](https://github.com/robertocarrascoso/TFGM_RepairHub) — Web de gestión de reparaciones desarrollada como Trabajo Final de Grado Medio.
+
+---
+
+**Contacto**: [LinkedIn](https://www.linkedin.com/in/roberto-carrascoso-jord%C3%A1n-4a1a49354/)
